@@ -1,0 +1,15 @@
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\bin\Debug\net9.0\presentation.exe
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\bin\Debug\net9.0\presentation.deps.json
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\bin\Debug\net9.0\presentation.runtimeconfig.json
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\bin\Debug\net9.0\presentation.dll
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\bin\Debug\net9.0\presentation.pdb
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\presentation.AssemblyInfoInputs.cache
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\presentation.AssemblyInfo.cs
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\presentation.csproj.CoreCompileInputs.cache
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\presentation.sourcelink.json
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\presentation.dll
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\refint\presentation.dll
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\presentation.pdb
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\presentation.genruntimeconfig.cache
+C:\Users\samirl\OneDrive\MPIUA\Documents\Git\Repos\mpiua-rijra\presentation\obj\Debug\net9.0\ref\presentation.dll
